@@ -1,5 +1,5 @@
 # RPyC-client-servidor
-Exemplo de aplicacao client-servidor com RPyC
+Exemplo de aplicação client-servidor com RPyC
 
 Para execução diretamente ao terminal linux, deve-se instalar o pacote RPyC através do comando 'pip install rpyc'.
 
